@@ -15,6 +15,8 @@
 	#A report title that is eithe rpassed in or calculated within the shell script. Include a timestamp and username aswell.
 	#You should add at least two more categories of information that are implemented in two or more script functions that gather other information that you think might be useful.
 
+#I modified the shell script via the web editor for Assignment 5.1
+
 #### Root check
 user=$(id -u)
 
